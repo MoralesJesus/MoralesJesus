@@ -2,8 +2,8 @@
 - ---
 - 👀 I’m interested in ... Programacion, Diseño de juegos, Codificacion y Desarrollo de paginas web
 - ---
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... a programar y aprender bases sobre todo lo nuevo y basico de la programacion
+- ---
 - 📫 How to reach me ...
 
 <!---
