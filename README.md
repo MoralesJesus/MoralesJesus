@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @MoralesJesus
+- 👋 Hi there
 - ---
-- 👀 I’m interested in ... Programacion, Diseño de juegos, Codificacion y Desarrollo de paginas web
+- ♟️ Soy estudiamte de la Universidad Autonoma Benito Juarez de Oaxaca, actualmente tengo 20 años, me gusta jugar videojuegos, ver videos y dormir. Me encuentro cursando la carrera de Licenciatura en Computacion.
 - ---
-- 🌱 I’m currently learning ... Programar y aprender bases sobre todo lo nuevo y basico de la programacion
+- 🌱 Lo que estoy aprendiendo:
+- Actualmente estoy aprendiendo a programar y aprender bases sobre todo lo nuevo y basico de la programacion y computacion.
 - ---
-- 📫 How to reach me ... Este es mi correo de contacto obedc060@gmail.com
-
+- 📫 How to reach me ... obedc060@gmail.com
+---
 <!---
 MoralesJesus/MoralesJesus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
